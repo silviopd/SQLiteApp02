@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLiteApp02</string>
+
+    <string-array name="menu">
+        <item>Editar</item>
+        <item>Eliminar</item>
+        <item>Ver en el mapa</item>
+    </string-array>
+
+    <string-array name="menu2">
+        <item>Camara</item>
+        <item>Elegir Imagen</item>
+    </string-array>
+</resources>
